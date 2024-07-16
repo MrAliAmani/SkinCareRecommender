@@ -14,7 +14,7 @@ This project is a content-based recommendation engine that recommends scraped De
 Clone the github repository
 
 ```bash
-git clone 
+git clone https://github.com/MrAliAmani/SkinCareRecommender.git
 ```
 
 Install the dependencies
